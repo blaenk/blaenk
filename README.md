@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/Xh152w6.png">
+</p>
 
 <!--
 **blaenk/blaenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
