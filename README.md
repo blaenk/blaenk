@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Xh152w6.png">
+  <a href="https://jip.dev"><img src="https://i.imgur.com/Xh152w6.png"></a>
 </p>
 
 <!--
