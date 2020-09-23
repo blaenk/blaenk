@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://jip.dev"><img src="https://i.imgur.com/Xh152w6.png"></a>
+  <a href="https://jip.dev"><img src="https://i.imgur.com/Xh152w6.png"></a><br>
+  <a href="https://jip.dev">jip.dev</a>
 </p>
 
 <!--
