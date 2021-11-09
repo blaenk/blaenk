@@ -4,9 +4,13 @@
 </p>
 
 - I am a versatile, self-directed engineer capable of diving deep into unfamiliar projects to quickly make meaningful contributions.
+
 - I have a proven record for designing, planning, leading, and developing complex projects from the ground up.
+
 - I love the thrill of the chase of debugging. This has led me to diagnose and address subtle and elusive bugs in all manner of previously-unfamiliar, complex, and diverse projects (see examples below), and all have been tremendous learning opportunities.
+
 - I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and most of the time fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
+
 - I constantly read to learn new things. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
 
 <details>
