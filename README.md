@@ -3,19 +3,19 @@
   <a href="https://jip.dev">jip.dev</a> · <a href="https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a">stackoverflow</a> · <a href="https://www.linkedin.com/in/jorge-israel-p/">linkedin</a>
 </p>
 
-- 🦄 I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience[^1].
+🦄 I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience[^1].
 
-- ⚡ I dive deep into unfamiliar projects and quickly make meaningful contributions (see below).
+⚡ I dive deep into unfamiliar projects and quickly make meaningful contributions (see below).
 
-- 👷🏻‍♂️ I have a proven record for designing, planning, leading, and developing complex projects from the ground up.
+👷🏻‍♂️ I have a proven record for designing, planning, leading, and developing complex projects from the ground up.
 
-- 🐞 I love the thrill of the chase of debugging. This has led me to diagnose and address subtle and elusive bugs in all manner of previously-unfamiliar, complex, and diverse projects (see below), and all have been tremendous learning opportunities.
+🐞 I love the thrill of the chase of debugging. This has led me to diagnose and address subtle and elusive bugs in all manner of previously-unfamiliar, complex, and diverse projects (see below), and all have been tremendous learning opportunities.
 
-- 🚀 I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and most of the time fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
+🚀 I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and most of the time fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
 
-- 🧘🏻‍♂️ I am practical. I dive deep into niches like emacs, vim, and zsh (see extensive [dotfiles](https://github.com/blaenk/dots)), or state-of-the-art technologies like Rust and Haskell, or perspective-expanding technologies like Clojure—but I always remain grounded and pick the right tool for the job even if others may consider it boring. I always appreciate what each tool has to offer and its trade-offs.
+🧘🏻‍♂️ I am practical. I dive deep into niches like emacs, vim, and zsh (see extensive [dotfiles](https://github.com/blaenk/dots)), or state-of-the-art technologies like Rust and Haskell, or perspective-expanding technologies like Clojure—but I always remain grounded and pick the right tool for the job even if others may consider it boring. I always appreciate what each tool has to offer and its trade-offs.
 
-- 👀 I keep up with the latest developments and constantly read and learn new things. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
+👀 I keep up with the latest developments and constantly read and learn new things. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
 
 [^1]: I started programming at 13, which I don't count, but my first serious projects were at 15: leading a team of friends developing a standalone game on the industry standard [Quake 3 engine](https://en.wikipedia.org/wiki/Id_Tech_3) (C codebase. I also created NSIS installer scripts, Python infrastructure, websites, etc.). I also created an [iPod MP3 retriever app](https://jip.dev/work/mypod/), [Last.fm clone](https://jip.dev/work/musicaster/), screenshot app, and various WordPress and phpBB plugins. It was a productive year.
 
