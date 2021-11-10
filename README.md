@@ -3,7 +3,7 @@
   <a href="https://jip.dev">jip.dev</a> · <a href="https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a">stackoverflow</a> · <a href="https://www.linkedin.com/in/jorge-israel-p/">linkedin</a>
 </p>
 
-🦄 I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience[^1].
+🙋🏻‍♂️ I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience[^1].
 
 ⚡ I dive deep into unfamiliar projects and quickly make meaningful contributions (see below).
 
