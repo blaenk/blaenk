@@ -3,7 +3,7 @@
   <a href="https://jip.dev">jip.dev</a> · <a href="https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a">stackoverflow</a> · <a href="https://www.linkedin.com/in/jorge-israel-p/">linkedin</a>
 </p>
 
-🙋🏻‍♂️ I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience[^1].
+🙋🏻‍♂️ I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience.
 
 ⚡ I dive deep into unfamiliar projects and quickly make meaningful contributions (see below).
 
@@ -16,8 +16,6 @@
 🧘🏻‍♂️ I am practical. I dive deep into niches like emacs, vim, and zsh (see extensive [dotfiles](https://github.com/blaenk/dots)), or state-of-the-art technologies like Rust and Haskell, or perspective-expanding technologies like Clojure—but I always remain grounded and pick the right tool for the job even if others may consider it boring. I always appreciate what each tool has to offer and its trade-offs.
 
 👀 I keep up with the latest developments and constantly read and learn new things. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
-
-[^1]: I started programming at 13, which I don't count, but my first serious projects were at 15: leading a team of friends developing a standalone game on the industry standard [Quake 3 engine](https://en.wikipedia.org/wiki/Id_Tech_3) (C codebase. I also created NSIS installer scripts, Python infrastructure, websites, etc.). I also created an [iPod MP3 retriever app](https://jip.dev/work/mypod/), [Last.fm clone](https://jip.dev/work/musicaster/), screenshot app, and various WordPress and phpBB plugins. It was a productive year.
 
 <details>
 <summary align="center"><strong>🔽 Click here to expand some of my varied open source contributions 🔽</strong></summary>
