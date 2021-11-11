@@ -13,7 +13,7 @@
 
 🚀 I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and most of the time fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
 
-🧘🏻‍♂️ I am practical. I dive deep into niches like emacs, vim, and zsh (see extensive [dotfiles](https://github.com/blaenk/dots)), or state-of-the-art technologies like Rust and Haskell, or perspective-expanding technologies like Clojure—but I always remain grounded and pick the right tool for the job even if others may consider it boring. I always appreciate what each tool has to offer and its trade-offs.
+🧘🏻‍♂️ I am practical. I dive deep into niches like emacs, vim, and zsh (see extensive [dotfiles](https://github.com/blaenk/dots)), or state-of-the-art technologies like Rust, or perspective-expanding technologies like Haskell and Clojure—but I always remain grounded and pick the right tool for the job even if others may consider it boring. I always appreciate what each tool has to offer and its trade-offs.
 
 👀 I keep up with the latest developments and constantly read and learn new things. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
 
