@@ -5,17 +5,17 @@
 
 🙋🏻‍♂️ I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience.
 
-⚡ I dive deep into unfamiliar projects and quickly make meaningful contributions (see below).
-
-👷🏻‍♂️ I have a proven record for designing, planning, leading, and developing complex projects from the ground up.
+🚀 I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and most of the time fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
 
 🐞 I love the thrill of the chase of debugging. This has led me to diagnose and address subtle and elusive bugs in all manner of previously-unfamiliar, complex, and diverse projects (see below), and all have been tremendous learning opportunities.
-
-🚀 I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and most of the time fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
 
 🧘🏻‍♂️ I am practical. I dive deep into niches like emacs, vim, and zsh (see extensive [dotfiles](https://github.com/blaenk/dots)), or state-of-the-art technologies like Rust, or perspective-expanding technologies like Haskell and Clojure—but I always remain grounded and pick the right tool for the job even if others may consider it boring. I always appreciate what each tool has to offer and its trade-offs.
 
 👀 I keep up with the latest developments and constantly read and learn new things. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
+
+⚡ I dive deep into unfamiliar projects and quickly make meaningful contributions (see below).
+
+👷🏻‍♂️ I have a proven record for designing, planning, leading, and developing complex projects from the ground up.
 
 <details>
 <summary align="center"><strong>🔽 Click here to expand some of my varied open source contributions 🔽</strong></summary>
