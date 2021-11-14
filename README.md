@@ -11,7 +11,7 @@
 
 🧘🏻‍♂️ I am practical. I dive deep into niches like emacs, vim, and zsh (see extensive [dotfiles](https://github.com/blaenk/dots)), or state-of-the-art technologies like Rust, or perspective-expanding technologies like Haskell and Clojure—but I always remain grounded and pick the right tool for the job even if others may consider it boring. I always appreciate what each tool has to offer and its trade-offs.
 
-👀 I keep up with the latest developments and constantly read and learn new things. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
+👀 I keep up with the latest developments and constantly read and learn new things, preferring source material like documentation and manuals, if available. See my extensive [notes](https://jip.dev/notes/) and my recent [reading list](https://jip.dev/reads/).
 
 ⚡ I dive deep into unfamiliar projects and quickly make meaningful contributions (see below).
 
