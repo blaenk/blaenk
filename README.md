@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://jip.dev"><img src="https://i.imgur.com/Xh152w6.png"></a><br>
+  <img src="https://github.com/blaenk/blaenk/raw/master/static/masthead-dark-alpha.png#gh-dark-mode-only">
+  <img src="https://github.com/blaenk/blaenk/raw/master/static/masthead-light-alpha.png#gh-light-mode-only"><br>
   <a href="https://jip.dev">jip.dev</a> · <a href="https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a">stackoverflow</a> · <a href="https://www.linkedin.com/in/jorge-israel-p/">linkedin</a>
 </p>
 
