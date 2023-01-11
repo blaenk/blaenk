@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://github.com/blaenk/blaenk/raw/master/static/masthead-dark-alpha.png#gh-dark-mode-only">
   <img src="https://github.com/blaenk/blaenk/raw/master/static/masthead-light-alpha.png#gh-light-mode-only"><br>
-  <a href="https://jip.dev">jip.dev</a> · <a href="https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a">stackoverflow</a> (top 0.74%) · <a href="https://www.linkedin.com/in/jorge-israel-p/">linkedin</a>
+  <a href="https://jip.dev">jip.dev</a> · <a href="https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a">stackoverflow</a> (top 0.7%) · <a href="https://www.linkedin.com/in/jorge-israel-p/">linkedin</a>
 </p>
 
 <p align="center">★★★★★</p>
 
-🙋🏻‍♂️ I am a versatile, self-directed engineer with +3 years of professional experience and +16 years of overall software engineering experience.
+🙋🏻‍♂️ I am a versatile, self-directed engineer with +4 years of professional experience and +18 years of overall software engineering experience.
 
 ❤️ I have a passion for software engineering that naturally drives me to [help others](https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a), [read and learn new things](https://jip.dev/reads/), [write about what I learn](https://jip.dev/notes/), and put what I learn to action both in [personal projects](https://github.com/blaenk) (see below) and [at work](https://www.linkedin.com/in/jorge-israel-p/).
 
