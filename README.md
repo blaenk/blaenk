@@ -10,7 +10,7 @@
 
 ❤️ I have a passion for software engineering that naturally drives me to [help others](https://stackoverflow.com/users/101090/jorge-israel-pe%c3%b1a), [read and learn new things](https://jip.dev/reads/), [write about what I learn](https://jip.dev/notes/), and put what I learn to action both in [personal projects](https://github.com/blaenk) (see below) and [at work](https://www.linkedin.com/in/jorge-israel-p/).
 
-👷🏻‍♂️ I have a proven record for designing, planning, leading, and developing complex projects, both greenfield projects as well as those involving major sweeping changes to critical, complex, interdependent legacy systems.
+👷🏻‍♂️ I have a proven record for designing, planning, leading, and developing complex projects, both greenfield projects as well as those involving major sweeping changes to critical, complex, interconnected legacy systems.
 
 <!-- --- -->
 <!-- <p align="center">▲▼▲▼▲</p> -->
