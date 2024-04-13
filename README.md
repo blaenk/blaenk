@@ -16,7 +16,7 @@
 <!-- <p align="center">▲▼▲▼▲</p> -->
 <p align="center">…</p>
 
-🚀 I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and most of the time fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
+🚀 I consistently clear obstacles. If something is broken or lacking, I dive in to investigate, file a thorough ticket, and often fix or implement the feature myself (see example [issue](https://github.com/aws/aws-cdk/issues/10921) and [PR](https://github.com/aws/aws-cdk/pull/10922)), and if what I need doesn't exist yet, [I will build it](https://github.com/blaenk/hoedown#readme).
 
 🐞 I love the thrill of the chase of debugging. This has led me to diagnose and address subtle and elusive bugs in all manner of previously-unfamiliar, complex, and diverse projects (see below), and all have been tremendous learning opportunities.
 
